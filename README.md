@@ -1,2 +1,3 @@
 # portfolio
-This is my projects.
+This is my project.
+Author - Harshit Bhardwaj
